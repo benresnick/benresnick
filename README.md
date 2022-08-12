@@ -1,7 +1,7 @@
-Hi 👋 My name is Ben Resnick
+Hi 👋 My name is Benjamin Resnick
 ============================
 
-SWE and Full Stack Dev
+Software Engineer + Full Stack Developer
 -----------------------------------
 
 I've been learning to code for over 5 years, starting as just a hobby in high school. I always knew I loved solving problems and figuring out the inner workings of complex systems which fed into my passions for Science and Tech. My curiosity for understanding the source code of the natural world led me to pursue my Chemistry degree. While finishing up my degree, I realized I could use my love for complex systems and my hobby for coding to experiment with software engineering concepts and full stack development of websites along with applications. I hope I can keep experimenting everyday and I'm grateful to have turned my hobby into my career.
